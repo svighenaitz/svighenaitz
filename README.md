@@ -1,8 +1,8 @@
 ## Hi there, Giuliano De Ioanni here 👋
 
-👨‍💻 About Me: Frontend Engineer with 13+ years of successful software delivery experience. Expert in JavaScript, TypeScript, React, React Native, and monorepo architecture. Skilled in developing both web applications and mobile experiences with Expo. Passionate about Design Systems, CI/CD, Micro Frontends, and DX tooling. Built scalable enterprise monorepos with design system integration, standardized deploy and testing workflows.
+👨‍💻 About Me: Frontend Engineer with 13+ years of successful software delivery experience. Expert in JavaScript, TypeScript, React, React Native, and frontend architecture. Skilled in developing both web applications and mobile experiences with Expo. Passionate about Design Systems, CI/CD, Micro Frontends, and DX tooling. Built scalable enterprise monorepos with design system integration, standardized deploy and testing workflows.
 
-I've spent the last 8 years creating web UIs, working closely with product and design teams to ship features fast, with long-term maintainability. From custom component libraries to owning deploy pipelines — I'm proud of clean delivery across both web and mobile platforms.
+I've spent the last 8 years creating web UIs, working closely with product and design teams to ship features that don't just work today but can be maintained tomorrow. From custom component libraries to owning deploy pipelines — I pride myself on delivering well-architected React solutions with proper component hierarchies and optimized rendering patterns.
 
 🚀 My motto: "Maintainability is a feature."
 
